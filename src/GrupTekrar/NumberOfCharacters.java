@@ -33,10 +33,11 @@ public class NumberOfCharacters {
                 count++;
 
             } else {
-                System.out.print(arr[i] + "= " + count + " ");
+                System.out.print(arr[i] + "=" + count + " ");
                 count = 1;
             }
         }
+
 
 
 
